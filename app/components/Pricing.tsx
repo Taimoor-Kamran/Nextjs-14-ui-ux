@@ -27,21 +27,18 @@ export function Pricing() {
             <ul className="flex flex-col gap-y-2 pt-4 text-[#5F7896]">
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
@@ -68,35 +65,30 @@ export function Pricing() {
             <ul className="flex flex-col gap-y-2 pt-4 text-[#F4F8FA]">
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
-                  {" "}
                   <Image src={Check} alt="included" />
                 </span>
                 Lorem ipsum dolor sit amet
@@ -116,11 +108,16 @@ export function Pricing() {
             <p className="pt-[12px] text-[#36485C] lg:text-[18px]">
               Perfect for big companies
             </p>
-            <h2 className="pt-4 text-2xl font-medium lg:text-[32px]">
-              Custom
-            </h2>
-            <p className="pt-4 text-[16px] text-[#36485C]">Lorem ipsum dolor sit amet, consecteutor adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>
-            <p className="pt-2 text-[16px] text-[#36485C]">Nemo enim ipsam volupattern quia volupates sit aspermatur aut odit aut fugit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <h2 className="pt-4 text-2xl font-medium lg:text-[32px]">Custom</h2>
+            <p className="pt-4 text-[16px] text-[#36485C]">
+              Lorem ipsum dolor sit amet, consecteutor adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore
+            </p>
+            <p className="pt-2 text-[16px] text-[#36485C]">
+              Nemo enim ipsam volupattern quia volupates sit aspermatur aut odit
+              aut fugit. Lorem ipsum dolor sit amet, consectetur adipisicing
+              elit.
+            </p>
           </div>
           <button className="mt-[16px] rounded-[4px] bg-white py-[14px] text-[#4328EB] font-medium">
             Start Trail
